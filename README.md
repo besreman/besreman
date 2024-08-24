@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=besreman" alt="besreman" /></a> </p>
 
-- 🔭 I’m currently on finishing class. **software engineering course**
+- 🔭 I’m currently on work. **Java Backend Job**
 
-- 🌱 I’m currently learning **Kotlin.**
+- 🌱 I’m currently learning **🎸Guitar.**
 
-- 👯 I’m looking to collaborate on **java, spring, or React techs.**
+- 👯 I’m looking to collaborate on **java, spring boot, React, Angular, Kotlin, .NET techs.**
 
-- 💬 Ask me about **Java, React, Spring boot, C#, C++, HTML, CSS, Javascript**
+- 💬 Ask me about **Java, React, Spring boot, C#, C++, web development, Desktop apps**
 
 - 📫 Reach me at **besratmesele@gmail.com**
 
